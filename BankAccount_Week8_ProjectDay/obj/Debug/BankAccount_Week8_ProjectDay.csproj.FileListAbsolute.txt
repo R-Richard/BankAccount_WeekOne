@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BankAccount_Week8_ProjectDay\BankAccount_Week8_ProjectDay\bin\Debug\BankAccount_Week8_ProjectDay.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BankAccount_Week8_ProjectDay\BankAccount_Week8_ProjectDay\bin\Debug\BankAccount_Week8_ProjectDay.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BankAccount_Week8_ProjectDay\BankAccount_Week8_ProjectDay\bin\Debug\BankAccount_Week8_ProjectDay.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BankAccount_Week8_ProjectDay\BankAccount_Week8_ProjectDay\obj\Debug\BankAccount_Week8_ProjectDay.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BankAccount_Week8_ProjectDay\BankAccount_Week8_ProjectDay\obj\Debug\BankAccount_Week8_ProjectDay.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\BankAccount_Week8_ProjectDay\BankAccount_Week8_ProjectDay\obj\Debug\BankAccount_Week8_ProjectDay.pdb

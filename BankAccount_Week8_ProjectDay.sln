@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount_Week8_ProjectDay", "BankAccount_Week8_ProjectDay\BankAccount_Week8_ProjectDay.csproj", "{FAA3F7F2-D4F7-4AC0-BF32-DCDF4A3B0B8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA3F7F2-D4F7-4AC0-BF32-DCDF4A3B0B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA3F7F2-D4F7-4AC0-BF32-DCDF4A3B0B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA3F7F2-D4F7-4AC0-BF32-DCDF4A3B0B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA3F7F2-D4F7-4AC0-BF32-DCDF4A3B0B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
